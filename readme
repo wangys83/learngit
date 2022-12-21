@@ -2,11 +2,8 @@ Git is a distributed version control system.
 Git is free software distributed under GPL.
 Git has a mutable index called stage.
 
-<<<<<<< HEAD
 work for the new feature 1
 
-=======
-Work for the new feature1.
+dev branch created on 12 21.
 
->>>>>>> new_feature1
 created by Yanchengyong on 2022 12 20
